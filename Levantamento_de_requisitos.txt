@@ -1,0 +1,8 @@
+Primeria página: Inicial
+
+    -Barra de pesquisa
+    -Barra de interação(lista com categorias)
+    -Acesso a página de login
+    -Anuncio de alguns produtos a serem ofeecidos no site
+    -Rodapé com barra de interação(Fale conosco, termos e condições, copyright, CNPJ, endereço, etc)
+    -Página com carrinhos de compras(se der)
